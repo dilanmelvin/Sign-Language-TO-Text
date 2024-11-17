@@ -1,0 +1,7 @@
+pyenchant
+pyttsx3
+tensorflow
+mediapipe
+keras
+numpy
+opencv-python
